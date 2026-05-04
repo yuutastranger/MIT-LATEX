@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{mathrsfs}
+\usepackage[12pt]{extsizes}
+\usepackage{fancyvrb}
+\usepackage{indentfirst}
+\usepackage[
+  left=2cm, right=2cm, top=2cm, bottom=2cm, headsep=0.2cm, footskip=0.6cm, bindingoffset=0cm
+]{geometry}
+\usepackage[russian]{babel}
+
+
+\begin{document}
+\section*{Вариант 8}
+Решение уравнения имеет вид
+
+\begin{equation}
+  \mathbf{U}_{\xi0} = \frac{1}{2\varepsilon^2}\left[ \frac{\partial^2 P_0}{\partial\xi\partial\tau} + 
+  \frac{\partial^2 P_0}{\partial\xi\partial\tau} \bar{\Psi}(\zeta) + 
+  \frac{\partial P_0}{\partial\xi}\bar{\Phi}(\zeta)  \right] ,
+\end{equation}
+где
+\begin{align*}
+  \bar{\Psi}(\zeta) = F_2(\varepsilon\zeta)D_1 - F_1(\varepsilon\zeta) - 2F_4(\varepsilon\zeta)D_2, \quad
+  \bar{\Phi}(\zeta) =  2F_3(\varepsilon\zeta) - F_2(\varepsilon\zeta)D_2 - 2F_4(\varepsilon\zeta)D_1,
+\end{align*}
+\begin{align*}
+  \bar{\Psi_1}(\zeta) = \int\limits_{\zeta}^{1} \bar{\Psi}d\zeta,  \quad
+  \bar{\Phi_1}(\zeta) = \int\limits_{\zeta}^{1}\bar{\Phi}(\zeta)d\zeta, \quad   
+  \varepsilon(\omega) = \sqrt{\mathfrak{R}/2}, 
+\end{align*}
+\end{document}
+
