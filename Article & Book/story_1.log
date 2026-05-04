@@ -1,0 +1,3092 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.5.2)  2 MAY 2026 19:08
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/MIT/story_1.tex
+(d:/MIT/story_1.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character Т (U+0422)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Т
+      еперь  я расскажу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Те
+        перь  я расскажу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теп
+          ерь  я расскажу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Тепе
+            рь  я расскажу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Тепер
+              ь  я расскажу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character ь (U+044C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь
+                  я расскажу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я
+                     расскажу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я р
+                       асскажу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я ра
+                         сскажу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я рас
+                           скажу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я расс
+                             кажу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я расск
+                               ажу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я расска
+                                 жу о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character ж (U+0436)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я расскаж
+                                   у о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character у (U+0443)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я расскажу
+                                      о том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я расскажу о
+                                         том, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я расскажу о т
+                                           ом, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я расскажу о то
+                                             м, как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я расскажу о том
+                                               , как я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Теперь  я расскажу о том,
+                                                 как я родился,
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no , in font nullfont!
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...перь  я расскажу о том, к
+                                                  ак я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ерь  я расскажу о том, ка
+                                                  к я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...рь  я расскажу о том, как
+                                                   я родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�  я расскажу о том, как я
+                                                   родился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...я расскажу о том, как я р
+                                                  одился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ... расскажу о том, как я ро
+                                                  дился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�асскажу о том, как я род
+                                                  ился,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�сскажу о том, как я роди
+                                                  лся,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�скажу о том, как я родил
+                                                  ся,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�кажу о том, как я родилс
+                                                  я,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:1: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ажу о том, как я родился
+                                                  ,
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 к
+      ак я рос и как  обнаружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ка
+        к я рос и как  обнаружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как
+           я рос и как  обнаружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я
+              рос и как  обнаружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я р
+                ос и как  обнаружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я ро
+                  с и как  обнаружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос
+                     и как  обнаружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и
+                        как  обнаружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и к
+                          ак  обнаружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и ка
+                            к  обнаружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и как
+                                обнаружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и как  о
+                                  бнаружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character б (U+0431)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и как  об
+                                    наружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и как  обн
+                                      аружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и как  обна
+                                        ружились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и как  обнар
+                                          ужились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character у (U+0443)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и как  обнару
+                                            жились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character ж (U+0436)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и как  обнаруж
+                                              ились во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и как  обнаружи
+                                                лись во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 как я рос и как  обнаружил
+                                                  ись во мне  пер...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...� я рос и как  обнаружили
+                                                  сь во мне  перв...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...я рос и как  обнаружилис
+                                                  ь во мне  первые
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character ь (U+044C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ... рос и как  обнаружились
+                                                   во мне  первые
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...ос и как  обнаружились в
+                                                  о мне  первые
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...с и как  обнаружились во
+                                                   мне  первые
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...и как  обнаружились во м
+                                                  не  первые
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ... как  обнаружились во мн
+                                                  е  первые
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�ак  обнаружились во мне
+                                                    первые
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�  обнаружились во мне  п
+                                                  ервые
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ... обнаружились во мне  пе
+                                                  рвые
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�бнаружились во мне  пер
+                                                  вые
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�наружились во мне  перв
+                                                  ые
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character ы (U+044B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�аружились во мне  первы
+                                                  е
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:2: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�ружились во мне  первые
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 п
+      ризнаки гения. Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 пр
+        изнаки гения. Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 при
+          знаки гения. Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character з (U+0437)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 приз
+            наки гения. Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 призн
+              аки гения. Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 призна
+                ки гения. Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признак
+                  и гения. Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки
+                     гения. Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character г (U+0433)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки г
+                       ения. Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки ге
+                         ния. Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки ген
+                           ия. Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки гени
+                             я. Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки гения
+                               . Я родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no . in font nullfont!
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character Я (U+042F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки гения. Я
+                                    родился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки гения. Я р
+                                      одился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки гения. Я ро
+                                        дился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки гения. Я род
+                                          ился дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки гения. Я роди
+                                            лся дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки гения. Я родил
+                                              ся дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки гения. Я родилс
+                                                я дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 признаки гения. Я родился
+                                                   дважды.  Произ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...знаки гения. Я родился д
+                                                  важды.  Произо�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...наки гения. Я родился дв
+                                                  ажды.  Произошло
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...аки гения. Я родился два
+                                                  жды.  Произошло
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character ж (U+0436)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ки гения. Я родился дваж
+                                                  ды.  Произошло
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...и гения. Я родился дважд
+                                                  ы.  Произошло
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character ы (U+044B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... гения. Я родился дважды
+                                                  .  Произошло
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no . in font nullfont!
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character П (U+041F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ния. Я родился дважды.  П
+                                                  роизошло
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ия. Я родился дважды.  Пр
+                                                  оизошло
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...я. Я родился дважды.  Про
+                                                  изошло
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 .... Я родился дважды.  Прои
+                                                  зошло
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character з (U+0437)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...Я родился дважды.  Произ
+                                                  ошло
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... родился дважды.  Произо
+                                                  шло
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character ш (U+0448)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�одился дважды.  Произош
+                                                  ло
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�дился дважды.  Произошл
+                                                  о
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:3: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ился дважды.  Произошло
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:4: LaTeX Error: Unicode character э (U+044D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 э
+      то вот как.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:4: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 эт
+        о вот как.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:4: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 это
+           вот как.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:4: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 это в
+             от как.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:4: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 это во
+               т как.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:4: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 это вот
+                  как.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:4: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 это вот к
+                    ак.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:4: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 это вот ка
+                      к.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:4: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 это вот как
+                        .
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--5
+[]
+ []
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character М (U+041C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     М
+          ой папа женился на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мо
+            й папа женился на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character й (U+0439)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой
+               папа женился на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой п
+                 апа женился на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой па
+                   па женился на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой пап
+                     а женился на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа
+                        женился на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character ж (U+0436)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа ж
+                          енился на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа же
+                            нился на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа жен
+                              ился на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа жени
+                                лся на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа женил
+                                  ся на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа женилс
+                                    я на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа женился
+                                       на моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа женился н
+                                         а моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа женился на
+                                            моей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа женился на м
+                                              оей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа женился на мо
+                                                ей маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     Мой папа женился на мое
+                                                  й маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character й (U+0439)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...�ой папа женился на моей
+                                                   маме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...й папа женился на моей м
+                                                  аме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ... папа женился на моей ма
+                                                  ме в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...�апа женился на моей мам
+                                                  е в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...�па женился на моей маме
+                                                   в 1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...а женился на моей маме в
+                                                   1902 го-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ... женился на моей маме в 1
+                                                  902 го-
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character г (U+0433)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...�ился на моей маме в 1902 г
+                                                  о-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:6: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...�лся на моей маме в 1902 го
+                                                  -
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no - in font nullfont!
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 д
+      у,  но  меня  мои родители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character у (U+0443)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду
+        ,  но  меня  мои родители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  н
+             о  меня  мои родители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но
+                 меня  мои родители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  м
+                   еня  мои родители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  ме
+                     ня  мои родители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  мен
+                       я  мои родители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  меня
+                           мои родители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  меня  м
+                             ои родители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  меня  мо
+                               и родители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  меня  мои
+                                  родители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  меня  мои р
+                                    одители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  меня  мои ро
+                                      дители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  меня  мои род
+                                        ители поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  меня  мои роди
+                                          тели поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  меня  мои родит
+                                            ели поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  меня  мои родите
+                                              ли поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  меня  мои родител
+                                                и поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ду,  но  меня  мои родители
+                                                   поизвели на с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ... но  меня  мои родители п
+                                                  оизвели на свет
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...�о  меня  мои родители по
+                                                  извели на свет
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...�  меня  мои родители пои
+                                                  звели на свет
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character з (U+0437)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ... меня  мои родители поиз
+                                                  вели на свет
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...�еня  мои родители поизв
+                                                  ели на свет
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...�ня  мои родители поизве
+                                                  ли на свет
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...�я  мои родители поизвел
+                                                  и на свет
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...�  мои родители поизвели
+                                                   на свет
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...мои родители поизвели н
+                                                  а свет
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...ои родители поизвели на
+                                                   свет
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...� родители поизвели на с
+                                                  вет
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...родители поизвели на св
+                                                  ет
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...одители поизвели на све
+                                                  т
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:7: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...дители поизвели на свет
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 т
+      олько в конце 1905 года,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 то
+        лько в конце 1905 года,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 тол
+          ько в конце 1905 года,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character ь (U+044C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 толь
+            ко в конце 1905 года,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 тольк
+              о в конце 1905 года,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 только
+                 в конце 1905 года,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 только в
+                    конце 1905 года,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 только в к
+                      онце 1905 года,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 только в ко
+                        нце 1905 года,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 только в кон
+                          це 1905 года,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character ц (U+0446)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 только в конц
+                            е 1905 года,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 только в конце
+                               1905 года,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character г (U+0433)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 только в конце 1905 г
+                                      ода,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 только в конце 1905 го
+                                        да,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 только в конце 1905 год
+                                          а,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 только в конце 1905 года
+                                            ,  потому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 только в конце 1905 года,  п
+                                                 отому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...лько в конце 1905 года,  по
+                                                  тому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ько в конце 1905 года,  пот
+                                                  ому  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ко в конце 1905 года,  пото
+                                                  му  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...о в конце 1905 года,  потом
+                                                  у  что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character у (U+0443)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ... в конце 1905 года,  потому
+                                                    что  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character ч (U+0447)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...конце 1905 года,  потому  ч
+                                                  то  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...онце 1905 года,  потому  чт
+                                                  о  папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...нце 1905 года,  потому  что
+                                                    папа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...е 1905 года,  потому  что  п
+                                                  апа
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ... 1905 года,  потому  что  па
+                                                  па
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...905 года,  потому  что  пап
+                                                  а
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:8: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...5 года,  потому  что  папа
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 п
+      ожелал, чтобы его  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 по
+        желал, чтобы его  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character ж (U+0436)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пож
+          елал, чтобы его  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 поже
+            лал, чтобы его  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожел
+              ал, чтобы его  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожела
+                л, чтобы его  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал
+                  , чтобы его  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character ч (U+0447)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, ч
+                      тобы его  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, чт
+                        обы его  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, что
+                          бы его  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character б (U+0431)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, чтоб
+                            ы его  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character ы (U+044B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, чтобы
+                               его  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, чтобы е
+                                 го  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character г (U+0433)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, чтобы ег
+                                   о  ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, чтобы его
+                                       ребенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, чтобы его  р
+                                         ебенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, чтобы его  ре
+                                           бенок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character б (U+0431)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, чтобы его  реб
+                                             енок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, чтобы его  ребе
+                                               нок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 пожелал, чтобы его  ребен
+                                                 ок родился обя�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...желал, чтобы его  ребено
+                                                  к родился обяз...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...елал, чтобы его  ребенок
+                                                   родился обяза...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�ал, чтобы его  ребенок р
+                                                  одился обязате-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�л, чтобы его  ребенок ро
+                                                  дился обязате-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�, чтобы его  ребенок род
+                                                  ился обязате-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ... чтобы его  ребенок роди
+                                                  лся обязате-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�тобы его  ребенок родил
+                                                  ся обязате-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�обы его  ребенок родилс
+                                                  я обязате-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�бы его  ребенок родился
+                                                   обязате-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...ы его  ребенок родился о
+                                                  бязате-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character б (U+0431)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ... его  ребенок родился об
+                                                  язате-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�го  ребенок родился обя
+                                                  зате-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character з (U+0437)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�о  ребенок родился обяз
+                                                  ате-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�  ребенок родился обяза
+                                                  те-
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+d:/MIT/story_1.tex:9: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ... ребенок родился обязат
+                                                  е-
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 49 strings out of 467691
+ 667 string characters out of 5414988
+ 434954 words of memory out of 5000000
+ 29207 multiletter control sequences out of 15000+600000
+ 627721 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 15i,0n,20p,125b,14s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+d:/MIT/story_1.tex:9:  ==> Fatal error occurred, no output PDF file produced!
